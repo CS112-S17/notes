@@ -6,63 +6,49 @@ The rubric that will be used to grade most of your programming assignments is as
 <table>
 	<tr>
 		<td><strong>Criterion</strong></td>
-		<td><strong>Percentage of Points Awarded</strong></td>
 		<td><strong>Description</strong></td>
 	</tr>
 	<tr>
 		<td rowspan="4"><strong>Solution</strong</td>
-		<td align="right">20%</td>
 		<td>Code contains some of the required logic but does not compile.</td>
 	</tr>	
 	<tr>
-		<td align="right">50%</td>
 		<td>All Java files submitted as part of the program compile without error. The program runs and passes some test cases but contains significant logic errors.</td>
 	</tr>	
 	<tr>
-		<td align="right">65%</td>
 		<td>All Java files submitted as part of the program compile without error. The program runs and passes most test cases but contains a few logic errors. </td>
 	</tr>	
 	<tr>
-		<td align="right">75%</td>
 		<td>All Java files submitted as part of the program compile without error. The program runs, passes all test cases, and no logic errors are found.</td>
 	</tr>	
 	<tr>
 		<td rowspan="4"><strong>Design</strong></td>
-		<td align="right">2.5%</td>
 		<td>The code is poorly designed.</td>
 	</tr>	
 	<tr>
-		<td align="right">5%</td>
 		<td>The code exhibits elements of good design but contains some poorly designed  or inefficient components.</td>
 	</tr>	
 	<tr>
-		<td align="right">7.5%</td>
 		<td>The code is reasonably well designed with some minor flaws in design or efficiency.</td>
 	</tr>	
 	<tr>
-		<td align="right">10%</td>
 		<td>The code is well designed and readable.</td>
 	</tr>	
 	<tr>
 		<td rowspan="3"><strong>Style</strong></td>
-		<td align="right">2.5%</td>
-		<td>The code violates two or more of the <a href="https://github.com/CS112-F16/notes/blob/master/style.md">Style Guidelines</a>.</td>
+		<td>The code violates two or more of the <a href="https://github.com/CS112-S17/notes/blob/master/style.md">Style Guidelines</a>.</td>
 	</tr>	
 	<tr>
-		<td align="right">5%</td>
-		<td>The code violates two or fewer of the <a href="https://github.com/CS112-F16/notes/blob/master/style.md">Style Guidelines</a>.</td>
+		<td>The code violates two or fewer of the <a href="https://github.com/CS112-S17/notes/blob/master/style.md">Style Guidelines</a>.</td>
 	</tr>	
 	<tr>
-		<td align="right">10%</td>
-		<td>The code follows all <a href="https://github.com/CS112-F16/notes/blob/master/style.md">Style Guidelines</a>.</td>
+		<td>The code follows all <a href="https://github.com/CS112-S17/notes/blob/master/style.md">Style Guidelines</a>.</td>
 	</tr>	
 	<tr>
 		<td rowspan="2"><strong>Interface</strong></td>
-		<td align="right">2.5%</td>
 		<td>The user interface is meets the specifications but is confusing to use.</td>
 	</tr>	
 	<tr>
-		<td align="right">5%</td>
 		<td>The user interface meets the specifications and is natural for the user.</td>
 	</tr>	
 	
