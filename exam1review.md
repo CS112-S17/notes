@@ -37,5 +37,4 @@ You may be asked to define a term; explain a concept; answer a short-answer, mul
  - `Scanner`
  - `try-with-resources`
 
-[Sample Exam 1](https://drive.google.com/file/d/0B7T4cfaps__jYVhrRlZCU3ZTZG8/view?usp=sharing) is the exam given in CS 112 Spring 2009. This will give you an idea of what the exam might look like. Your exam will be different, however. This exam covers some topics that we have not discussed and some topics that do not appear on this sample may appear on your exam. Use this only as a general guide.
 
