@@ -7,7 +7,7 @@ Exercise 1: Implement a method `public int factorial(int n)` in Java.
 
 Exercise 2: Now, do the same without using a loop.
 
-####Comparision
+#### Comparision
 1. Some problems are more easily solved recursively.
 2. Recursion can be highly inefficient as resources are allocated for each method invocation.
 
@@ -36,7 +36,8 @@ else
 
 ### Linear Recursion
 
-A linear recursive algorithm contains at most one recursive call at each iteration. Factorial is an example of this. The general algorithm followed by factorial is (1) test for the base case; (2) recurse. Factorial is also an example of tail recursion. In tail recursion, the recursive call is the last operation in the method. Tail recursive methods can easily be converted to iterative algorithms.
+A linear recursive algorithm contains at most one recursive call at each iteration. Factorial is an example of this. The general algorithm followed by factorial is (1) test for the base case; (2) recurse. Factorial is also an example of tail recursion. In tail recursion, the recursive call is the last operation in the method. Tail recursive methods can easily be converted to iterative algorithms.
+
 Exercise 3: Implement a recursive method that takes as input a String and prints the characters of the String one per line *without using a loop*. You may only use the methods `length`, `charAt`, and `substring`. 
 
 Exercise 4: Implement a recursive method that takes as input a String and prints the characters of the String *in reverse* one per line *without using a loop*. You may only use the methods `length`, `charAt`, and `substring`.
